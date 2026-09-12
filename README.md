@@ -3,7 +3,18 @@
 Plugin WordPress independente que disponibiliza o bloco nativo Gutenberg **"Antigravity Prompt / Floating Cards"** (`luiz0067/topic-title-text`).
 Permite a inserção de tópicos flutuantes animados com efeito de **antigravidade** (levitação suave via CSS), compostos por títulos, textos/descrições, tags de prompt e ações interativas (como cópia para área de transferência e links).
 
-![Luiz0067 Antigravity Prompt / Floating Cards](screenshot-1.png)
+<p align="center">
+  <img src="screenshot-1.png" alt="Luiz0067 Antigravity Prompt / Floating Cards - Gutenberg Editor" width="100%">
+</p>
+
+---
+
+## Demonstração & Screenshots
+
+A captura de tela demonstrativa (`screenshot-1.png`) exibe o bloco em funcionamento no editor Gutenberg:
+- **Painel Lateral do Inspetor**: Controles intuitivos de física de levitação (velocidade do ciclo e atraso de início), alternância de sombra de solo sincronizada, seletor de estilos e paleta de cores de destaque.
+- **Estilos Visuais em Ação**: Demonstração simultânea dos temas *Glassmorphism* (Vidro Fosco), *Dark Neon*, *Cyber Glow* e *Minimal Clean*.
+- **Interatividade**: Feedback visual instantâneo (*Toast* "Copiado!") ao acionar o botão de cópia de prompt.
 
 ---
 
